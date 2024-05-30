@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap');
+
+.font-family-size {
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: "Jacquard 12", system-ui;
+    font-size: 26px;
+}
+
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+.underline {
+    text-decoration: underline;
+}
+
+.center-align {
+    text-align: center;
+}
+.line-through {
+    text-decoration: line-through ;
+}
+.line-height {
+    line-height: 3;
+}
+.letter-spacing {
+    letter-spacing: 5px;
+}
+.text-shadow {
+    /*  1st value = horizontal value
+        2nd value = vertical value
+        3rd value = blur effect
+        4th value = color value - alpha value is .0 - 1 opacity
+     */
+    text-shadow: 5px 5px 5px rgba(8, 35, 167, 0.5);
+}

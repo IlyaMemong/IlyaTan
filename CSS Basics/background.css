@@ -1,0 +1,35 @@
+/* Color Values */
+.color-example {
+    color: gold;
+    background-color: tomato;
+}
+/* Background color */
+.background-example {
+    background-color: darkslateblue;
+    color: #CD6115;
+}
+/* Background Positioning and Repeating */
+.background-position-example {
+    background-image: url("background.jpg");
+    background-position: center top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Opacity and Transparency  */
+.opacity-example {
+    background-color: rgba(255, 0, 0, 0.1);
+    /* alpa value range = 0.01 - 1 */
+}
+/* Adding Images to Web Pages */
+.image-example {
+    display: block;
+    margin: 0 auto;
+}
+/* Image Sizing and Alignment */
+.image-sizing-example {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
